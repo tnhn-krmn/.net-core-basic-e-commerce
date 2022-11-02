@@ -1,0 +1,12 @@
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\bin\Debug\net5.0\SmallecommerceProject.Core.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\bin\Debug\net5.0\SmallecommerceProject.Core.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\bin\Debug\net5.0\SmallecommerceProject.Core.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\refint\SmallecommerceProject.Core.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\SmallecommerceProject.Core.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Core\obj\Debug\net5.0\ref\SmallecommerceProject.Core.dll

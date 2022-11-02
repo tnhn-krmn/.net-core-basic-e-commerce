@@ -1,0 +1,69 @@
+﻿@model SmallecommerceProject.MvcWebUI.Models.CartListViewModel
+<div class="container">
+        <div class="row pt-5">
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-info" role="alert">@TempData["message"]</div>
+        }
+        @if (Model.Cart.CartLines.Count > 0 && Model.Cart.CartLines.Count != null)
+        {
+            <table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Product Name</th>
+            <th scope="col">Unit Price</th>
+            <th scope="col">Unit In Stock</th>
+            <th scope="col">Quantity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cart.CartLines)
+        {
+            <tr>
+                <td>@item.Product.ProductName</td>
+                <td>@item.Product.UnitPrice</td>
+                <td>@item.Product.UnitsInStock</td>
+                <td>@item.Quantity</td>
+                <td><a class="btn btn-xs btn-danger" asp-controller="Cart" asp-action="Remove" asp-route-productId="@item.Product.ProductId">Sil</a></td>
+            </tr>
+        }
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><h3>Total</h3></td>
+            <td class="text-right">
+                <h3>@Model.Cart.Total</h3>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                        <a asp-controller="Product" asp-action="List" class="btn btn-xs btn-light">
+                    <span>Alışverişe Devam Et</span>
+                </a>
+            </td>
+
+            <td>
+                <a asp-controller="Cart" asp-action="Complete" class="btn btn-xs btn-success">
+                    <span>Ödemeye Git</span>
+                </a>
+            </td>
+        </tr>        
+</tbody>
+</table>
+        }
+        else
+        {
+            <div class="col-lg-12">
+                    <div class="alert alert-warning  text-center " role="alert">
+                        Ürün Bulunamadı!
+                </div>
+            </div>
+        }
+</div>
+</div>

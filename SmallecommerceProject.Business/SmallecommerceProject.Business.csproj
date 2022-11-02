@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmallecommerceProject.Core\SmallecommerceProject.Core.csproj" />
+    <ProjectReference Include="..\SmallecommerceProject.DataAccess\SmallecommerceProject.DataAccess.csproj" />
+    <ProjectReference Include="..\SmallecommerceProject.Entities\SmallecommerceProject.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

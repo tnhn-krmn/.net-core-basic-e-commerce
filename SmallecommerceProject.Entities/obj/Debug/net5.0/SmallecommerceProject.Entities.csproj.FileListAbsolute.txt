@@ -1,0 +1,15 @@
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\bin\Debug\net5.0\SmallecommerceProject.Entities.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\bin\Debug\net5.0\SmallecommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\bin\Debug\net5.0\SmallecommerceProject.Entities.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\bin\Debug\net5.0\SmallecommerceProject.Core.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\bin\Debug\net5.0\SmallecommerceProject.Core.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.csproj.CopyComplete
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\refint\SmallecommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\SmallecommerceProject.Entities.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.Entities\obj\Debug\net5.0\ref\SmallecommerceProject.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.DataAccess.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.DataAccess.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.DataAccess.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.Core.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.Core.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\bin\Debug\net5.0\SmallecommerceProject.Entities.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.csproj.CopyComplete
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\refint\SmallecommerceProject.DataAccess.dll
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\SmallecommerceProject.DataAccess.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Rea\MVC\SmallecommerceProject\SmallecommerceProject.DataAccess\obj\Debug\net5.0\ref\SmallecommerceProject.DataAccess.dll

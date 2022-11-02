@@ -1,0 +1,19 @@
+﻿@model SmallecommerceProject.MvcWebUI.Models.CartSummaryViewModel
+
+<ul class="dropdown-menu">
+    @foreach (var item in Model.Cart.CartLines)
+   {   
+    <li class="pl-2">
+        <a>@item.Product.ProductName <span class="badge bg-primary">@item.Quantity</span> </a>
+    </li>
+   }
+        <hr class="hr" />
+
+    <li class="text-center">
+        <a><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>@Model.Cart.Total</a>
+    </li>
+    <hr class="hr w-100"/>
+    <li class="text-center text-decoration-none">
+        <a asp-controller="Cart" asp-action="List">Detay'a Git</a>
+    </li>
+</ul>
